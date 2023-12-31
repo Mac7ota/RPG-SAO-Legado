@@ -1,0 +1,144 @@
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\SAO.dll.config
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\SAO.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\SAO.pdb
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\csc.exe
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\csc.exe.config
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\csc.rsp
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\csi.exe
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\csi.rsp
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\System.AppContext.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\vbc.exe
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\vbc.exe.config
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\vbc.rsp
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\obj\Debug\SAO.csproj.AssemblyReference.cache
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\obj\Debug\SAO.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\obj\Debug\SAO.csproj.CopyComplete
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\obj\Debug\SAO.dll
+C:\Users\Mauro Aequus\Desktop\SAO\SAO\SAO\obj\Debug\SAO.pdb
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.dll.config
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.pdb
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.exe
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.exe.config
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.rsp
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csi.exe
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csi.rsp
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.AppContext.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.exe
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.exe.config
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.rsp
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.AssemblyReference.cache
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.CopyComplete
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.dll
+C:\Users\Mauro Aequus\Desktop\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.pdb
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.dll.config
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.pdb
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.exe
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.exe.config
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.rsp
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csi.exe
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csi.rsp
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.AppContext.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.exe
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.exe.config
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.rsp
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.AssemblyReference.cache
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.CopyComplete
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.dll
+C:\Users\Mauro Aequus\Documents\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.pdb
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.dll.config
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\SAO.pdb
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.exe
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.exe.config
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csc.rsp
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csi.exe
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\csi.rsp
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.exe
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\vbc.rsp
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.AssemblyReference.cache
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.csproj.CopyComplete
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.dll
+C:\Users\mauro\Downloads\Mauro Trabalho\Mauro Trabalho\Material programação\Projetos\SAO\SAO\SAO\obj\Debug\SAO.pdb

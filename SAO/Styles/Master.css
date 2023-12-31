@@ -1,0 +1,141 @@
+﻿/* Import font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+
+}
+/* General styles end */
+.LogoNav {
+    height: auto;
+    width: auto;
+}
+
+
+.container {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid black;
+
+}
+
+.navbar {
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding-block: 15px;
+}
+
+    .navbar a {
+        text-decoration: none;
+        color: #fff;
+        font-family: 'BeaufortforLOL-Regular Custom';
+    }
+
+.logo {
+    margin-right: 50px;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.list li a{
+    transition:0.5s;
+}
+
+.list li a:hover {
+    transition:0.5s;
+    color:#b43910;
+}
+
+#toggler,
+.navbar label {
+    display: none;
+    color:white;
+    font-size:20px;
+}
+
+@media screen and (max-width: 600px) {
+    .menu {
+        width: 100%;
+        max-height: 0;
+        overflow: hidden;
+    }
+
+    .list {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .navbar label {
+        display: inline-flex;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    #toggler:checked ~ .menu {
+        max-height: 100%;
+    }
+}
+
+
+.footer {
+    background-color: black;
+    padding: 15px;
+    color: white;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+    .footer span {
+        font-size: 16px;
+        letter-spacing: 1px;
+        padding: 0px 20px 0px 0px;
+        font-family: 'BeaufortforLOL-Regular Custom';
+    }
+
+    .footer a {
+        padding: 0px 10px 0px 10px;
+        position: relative;
+        top: 2px;
+        font-size: 24px;
+        color: white;
+        text-decoration: none;
+    }
+
+.ri-whatsapp-line:hover {
+    transition: 0.5s;
+    scale: 1.1;
+    color: #25d366;
+}
+
+.ri-whatsapp-line {
+    transition: 0.5s;
+}
+
+.ri-instagram-line:hover {
+    transition: 0.5s;
+    scale: 1.1;
+    color: #E1306C;
+}
+
+.ri-instagram-line {
+    transition: 0.5s;
+}

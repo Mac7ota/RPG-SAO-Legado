@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="SAO.MasterPage" %>
+
+<!DOCTYPE html>
+<html lang="PT-BR">
+<html>
+<head runat="server">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="Pictures/Login/IconeLogin.png"/>
+    <link rel="stylesheet" href="Styles/Master.css" />
+    <link rel="stylesheet" href="Styles/Classes.css" />
+    <link rel="stylesheet" href="Styles/Default.css" />
+    <title>RPG</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class="navbar container">
+            <img src="../Pictures/LogoLua.png" class="LogoNav"/>
+            <input type="checkbox" id="toggler" />
+            <label for="toggler"><i class="ri-menu-line"></i></label>
+            <div class="menu">
+                <ul class="list">
+                    <li><a href="Default.aspx" class="active">Home</a></li>
+                    <li><a href="Classes.aspx"  class="active">Classes</a></li>
+                </ul>
+            </div>
+        </nav>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="footer">
+            <div>
+                <span class="copyright">&copy; 2023 Company Mauro Alves Aguiar</span> 
+                </div>
+            <div>
+                        <a href="#" class="footer__list-link">
+                            <i class="ri-whatsapp-line"></i>
+                        <a href="#" class="footer__list-link">
+                            <i class="ri-instagram-line"></i>
+                        </a>
+                            </div>
+    </footer>
+    </form>
+</body>
+</html>
